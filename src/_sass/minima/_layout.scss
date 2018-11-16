@@ -137,6 +137,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $footer-background-color;
 }
 
 .footer-heading {
@@ -207,6 +208,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-color: $body-background-color;
 }
 
 .page-heading {
