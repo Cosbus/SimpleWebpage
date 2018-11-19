@@ -3,16 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site was created as an examination part in the course Clientbased webprogramming (1DV022) in the program Web Programming at the [Linnaeus University](https://lnu.se/en/). The site is generated using the static site generator [Jekyll](https://jekyllrb.com/) and the CSS preprocessor [Sass](https://sass-lang.com/). The theme is based upon the Jekyll minima-theme.

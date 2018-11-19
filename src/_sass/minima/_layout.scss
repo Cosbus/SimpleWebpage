@@ -129,7 +129,28 @@
   }
 }
 
+/**
+* Dual view
+*/
 
+.container {
+  width:960px;
+  margin-left:20px auto;
+}
+
+.content {
+  float:left;
+  width:510px;
+  padding-right: 5px;
+}
+.sidebar {
+  float:left;
+  width:420px;
+  border-left-color: black;
+  border-left-width: 1px;
+  border-left-style: solid;
+  padding-left:10px;
+}
 
 /**
  * Site footer
@@ -138,6 +159,7 @@
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
   background-color: $footer-background-color;
+  color: $text-color;
 }
 
 .footer-heading {
@@ -153,7 +175,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $text-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }

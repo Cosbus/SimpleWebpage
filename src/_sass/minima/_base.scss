@@ -59,6 +59,21 @@ img {
   vertical-align: middle;
 }
 
+img[src*="#md"] {
+  max-width: 100%;
+  vertical-align: middle;
+  padding:1px;
+  border:1px solid #021a40;
+  border-radius:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%
+}
+
 
 
 /**
